@@ -1,7 +1,7 @@
 //What a need to do?
 //make a list with all inputs of my page, read all the values of each item and put in my table;
 
-
+//i need to 
 
 let campos = [
     document.querySelector('#data'),
